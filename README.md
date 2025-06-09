@@ -36,8 +36,8 @@ A dynamic cryptocurrency dashboard built with **Node.js**, **Express**, and **EJ
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/crypto-dashboard.git
-cd crypto-dashboard
+git clone https://github.com/nishhhanth/Crypto-Dashboard.git
+cd Crypto-Dashboard
 
 # Install dependencies
 npm install
@@ -53,7 +53,7 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 ## 📂 Project Structure
 
 ```
-crypto-dashboard/
+Crypto-Dashboard/
 ├── public/              # Static assets (optional, currently unused)
 ├── views/
 │   └── index.ejs        # Main dashboard page
